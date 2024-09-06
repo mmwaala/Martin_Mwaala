@@ -1,2 +1,2 @@
-# Project-1
+# Projects
 Good stuff resides here!
